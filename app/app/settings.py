@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     # 'auths/accounts',
     # 'payment',
-    # 'products',
+    'products',
     'frontend',
     'store',
     'users',
